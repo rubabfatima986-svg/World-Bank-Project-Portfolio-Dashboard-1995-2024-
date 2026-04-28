@@ -1,39 +1,40 @@
-# World-Bank-Project-Portfolio-Dashboard-1995-2024-
-World Bank project-level dashboard visualizing global financing trends, regional allocation, and environmental &amp; social risk patterns (1995–2024).
+World Bank Project Portfolio Dashboard (1995–2024)
+Overview
 
-This repository presents an interactive data visualization dashboard developed to analyze World Bank project-level data from 1995 to 2024. The dashboard provides a comprehensive overview of global development financing patterns, enabling systematic exploration of project allocations, temporal trends, and environmental and social risk classifications across regions and income contexts.
+This repository presents an interactive data visualization dashboard developed to systematically analyze World Bank project-level data spanning 1995 to 2024. The dashboard consolidates and visualizes multi-dimensional information on global development financing, including funding flows, regional allocation patterns, project lifecycle dynamics, and environmental and social risk classifications.
 
-The objective is to enhance transparency and accessibility of development finance data for policy analysis, research, and strategic decision-making.
+The primary objective is to enhance the accessibility, transparency, and interpretability of large-scale development finance data for researchers, policymakers, and development practitioners.
 
 Objectives
 
-The primary objectives of this project are to:
+This project is designed to support evidence-based analysis of global development financing by achieving the following objectives:
 
-Analyze global trends in World Bank project approvals and commitments over time
-Examine regional distribution of development financing
-Assess project lifecycle dynamics (e.g., active, closed, pipeline)
-Explore environmental and social risk classifications across the portfolio
-Provide an interactive tool for exploring development finance patterns
-Data
+Examine long-term trends in World Bank project approvals and financial commitments
+Analyze regional distribution of development finance across global regions
+Assess temporal patterns in project lifecycle stages (pipeline, active, closed, dropped)
+Evaluate environmental and social risk exposure across the project portfolio
+Provide an interactive analytical tool for exploratory policy and research use
+Data Description
 
-The analysis is based on World Bank project-level metadata spanning 1995–2024.
+The analysis is based on structured World Bank project-level metadata covering the period 1995–2024.
 
-Key Dimensions:
+Key Variables
 Project approval year
-Financial commitments (IBRD, IDA, and grants)
+Total financial commitments (IBRD, IDA, and grant financing)
 Geographic region and country classification
 Project status (Active, Closed, Pipeline, Dropped)
-Environmental and Social Risk Ratings
+Environmental and Social Risk ratings
 Methodology
 
-This project employs descriptive analytics and interactive dashboarding techniques to structure and visualize large-scale development finance data.
+The project applies descriptive and exploratory data analysis techniques combined with interactive dashboard development to transform raw project-level data into actionable insights.
 
-Approach:
-Data cleaning and transformation of project-level metadata
-Aggregation of financial and categorical indicators
-Time-series and cross-sectional analysis
-Dashboard development for interactive exploration
-Tools Used:
-Power BI (or relevant visualization tool)
-Excel / structured datasets
-Data preprocessing and aggregation techniques
+Analytical Approach
+Data cleaning and harmonization of World Bank project metadata
+Aggregation of financial, temporal, and categorical indicators
+Time-series trend analysis of development financing flows
+Cross-regional comparative analysis
+Dashboard design for interactive exploration and visualization
+Tools and Technologies
+Power BI / Data Visualization Platform
+Microsoft Excel (data preprocessing and structuring)
+Descriptive statistical analysis
